@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Streams {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {        
 
         List<Integer> nums = Arrays.asList(2,9,34,7,89,3,4,1);
 
